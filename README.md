@@ -14,7 +14,7 @@ At this time I do not have a presence in Facebook. I've chosen not to close my T
 
 I use two main email addresses. For each one, I have uploaded the public PGP keys in this repository. I recommend that you use them if you feel so inclined:
 
-[joelpomales@protonmail.com](https://github.com/joelpomales/public/blob/d8667a938ad4e2bd961df6e6d8c3148a9529e004/ProtonMail%20PGP)
+[joelpomales@protonmail.com](mailto:joelpomales@protonmail.com) [PGP Key](https://github.com/joelpomales/public/blob/fcb321eafc1b2d48d154fdac243514f2d5dbed48/ProtonMail%20PGP)
 
 [joelpomales@gmail.com](https://github.com/joelpomales/public/blob/5e8bdb75e96079083f8ddd03dff2581ea68bdb84/Gmail%20PGP)
 

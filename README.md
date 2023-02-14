@@ -6,7 +6,7 @@ This repository will provide you with some information related to me. It will be
 
 [Mastodon](https://mastodon.social/@joelpomales)
 
-[LinkedIn](www.linkedin.com/in/joelpomales)
+[LinkedIn](https://www.linkedin.com/in/joelpomales)
 
 At this time I do not have a presence in Facebook. I've chosen not to close my Twitter account (@joelpomales) but I am not actively checking it.
 
